@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: antiquewhite;
+  font-family: 'Gill Sans', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+img {
+  height: 15vh;
+  width: 15vw;
+  margin: 1rem 2rem;
+
+
+}
+
+.card {
+  height: 30vh;
+  width: 25vw;
+  margin: 2rem;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+
+
+}
+
+
+h2 {
+  margin: 0 2rem;
+  background-color: blanchedalmond;
+  padding: 0.5rem;
+  text-align: center;
+  font-size: medium;
+}
+
+h3 {
+  text-align: center;
+}
+
+button {
+  height: 2rem;
+  width: 3rem;
+  margin: 0.2rem;
+  background-color: rgb(216, 153, 72);
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
+input,
+button {
+  border-radius: 5px;
+}
+
+.search button {
+  width: 5rem;
+}
+
+li {
+  display: grid;
+  background-color: white;
+  margin: 0.5rem;
+  padding: 0.25rem;
+  background-color: darkkhaki;
+  border: none;
+  border-radius: 5px;
+
+}
