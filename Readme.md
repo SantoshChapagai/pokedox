@@ -3,6 +3,9 @@
 ## Languages
 -- HTML, CSS, JavaScript
 
+## Live Link
+-- <a href="https://public.bc.fi/s2300121/pokedex/">View here </a>
+
 ## Data
 -- Fetch the data from the pokedox api <a href="https://pokeapi.co/">see here</a>.
 -- The data related to pokemon image, id, name, and types are only call.
