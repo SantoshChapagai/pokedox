@@ -3,6 +3,7 @@ const pokeTypes = document.querySelector('#btn_types');
 let pokeList = [];
 const btnParent = document.querySelector(".buttons")
 btnParent.addEventListener("click", (e) => {
+  userInput.value = "";
   const gen = e.target.id
   pokemon(generations[gen].limit, generations[gen].offset)
 })
