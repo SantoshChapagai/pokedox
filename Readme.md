@@ -3,6 +3,9 @@
 ## Languages
 - HTML, CSS, JavaScript
 
+## Screenshots
+![]
+
 ## Live Link
 - <a href="https://public.bc.fi/s2300121/pokedex/">View here </a>
 
